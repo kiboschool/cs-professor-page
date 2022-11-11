@@ -76,6 +76,6 @@ Use this checklist to confirm that you've included everything you need:
 
 If you have submitted the project and you have more time, you can be creative and add more things to your page. Here are just a few ideas:
 
-* Create a fake CV or bio
+* Create a fake CV or bio as a pdf
 * Link to some other faculty pages, or to an institution's home page
-* Figure out how to get replit to serve your page using a `~` (tilde) character in the URL, like in `harvard.edu/~dbrooks/`
+* Add ResearchGate or social media links
